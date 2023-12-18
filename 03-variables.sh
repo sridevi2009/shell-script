@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATE=$(date)
+DATE="16-12-2023"
 
 echo "script started executing : ${DATE}"
 
