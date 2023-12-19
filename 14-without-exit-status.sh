@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -0
+set -e
 
 ls -ltr
 
