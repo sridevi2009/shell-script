@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SOURCE_DIR="/tmp/shell-script-logs"
+SOURCE_DIR="/tmp/shell-scripts-logs"
 
 R="\e[31m"
 G="\e[32m"
